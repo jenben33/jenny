@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<style>
+body{
+      width:1100px;
+      background:rgb(215, 215, 255);
+.red-text {
+color:red;
+ {
+ </style>
+<form action="https://www.tonyrobbins.com/"><input type="text" placeholder="search"><button type="submit">submit</button>
+</form>
+<title>Jenny Second Trial</title>
+<head>
+<meta charset="utf-8">
+<hr size="3">
+<center>
+<h1>Hello World</h1></head>
+<h2 style="color: purple;">Just so you know this is my second website 😊</h2>
+<hr size="3">
+</center>
+<body>
+<table cellspacing="20">
+<tr>
+<td>
+<img src="/C:/Users/hallo/Pictures/Saved%20Pictures/suad-kamardeen-J-D50rg44aw-unsplash%20(2).jpg"alt="I want to Love LIFE" width="300" height="200" >
+</td>
+<td><p><h3>HELLO! WELCOME TO MY PAGE 😊</h3>
+<p>My Name is Jennifer Benjamin,I am here to share with you all about me,How i deal with Mental Health,Being a single Mum of 2,in a Foreign Land(offcourse my story won't be complete without my 2 little Humans),living in Switzerland,how i learnt Deustch (A very Difficult Language),My Goals And lastly to share also,about My days(Good and Bad).so join me while i share with you,all about ME.
+</p></td>
+</tr>
+</table>
+<p><a href="https://www.tonyrobbins.com/building-confidence/how-to-be-confident/" target="_blank">Here you get the Tipps on how to be confident</a></p>
+<p class="red-text">There are 3 Most important things in Life,which i have learnt so far,while dealing with Mental Health.This Are.....</p>
+<ol>
+<li>understanding you are whole on your own</li><li>Stop Seeking Validation</li>
+<li>learning how to put yourself first,Offcourse the world would always adjust,Trust me they do,(I have been there)</li>
+</ol><hr size="3" noshade>
+<p>Now i would like you to choose,on what area would you like us to start with?</p>
+<label for="Confidence"><input id="Confidence" type="checkbox" name="Confidence">Confidence</label>
+<label for="Single parenting"><input id="Single parenting" type="checkbox" name="Single parenting">Single parenting</label>
+<label for="Life In Switzerland"><input id="Life In Switzerland" type="checkbox" name="Life In Switzerland">Life In Switzerland</label> 
+<button type="submit">submit</button><hr size="3" noshade>
+<a href="my contact.html" target=_blank>my contact</a>
+
+</body>
+</html>
